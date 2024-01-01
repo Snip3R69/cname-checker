@@ -1,5 +1,5 @@
 # CNAME Checker
-Hey there! This little Python script is here to help you check the CNAME record for a list of subdomains. It uses the `dnspython` library to do its magic.
+Hey there! This Python script is here to help you check the CNAME record for a list of subdomains. It uses the `dnspython` library to do its magic.
 
 ## Usage
 To use the script, run the following command in your terminal or command prompt:
